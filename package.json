@@ -20,10 +20,9 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": "URL github"
+    "url": "https://github.com/vladimirmuratov/weather-cli-vm"
   },
   "bugs": {
-    "url": "",
     "email": "vladimirmuratov@mail.ru"
   },
   "dependencies": {
